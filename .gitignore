@@ -1,0 +1,16 @@
+#*.*
+*.dll
+*.exe
+*.bank
+.egstore
+.old_git
+licenses
+maps
+shadersOGL
+scripts/
+#언어 패치 변경사항
+!/resources/resource.dat
+!/scripts/images.lua
+!/scripts/text.lua
+!/scripts/localization/*.*
+!.gitattributes
