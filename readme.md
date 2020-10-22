@@ -34,7 +34,22 @@
 4. - [ ] 2차 번역  
 5. - [ ] 번역 검수  
 6. - [ ] subsetgames와 연락해 공식 번역으로 선정되기  
-
+  
+  
+### 번역 현황
+| 번역 텍스트      | 번역완료 | 총 분량 | 검수 |
+|------------------|----------|---------|----|
+| Achievements.csv |     155  |   155   |    |
+| Global.csv       |     605  |   869   |    |
+| Missions.csv     |     2    |   406   |    |
+| New.csv          |     264  |   264   |    |
+| Objectives.csv   |     100  |   145   |    |
+| Pawns.csv        |     75   |   135   |    |
+| Pilots.csv       |     12   |   4714  |    |
+| Population.csv   |     123  |   123   |    |
+| Tooltips.csv     |     40   |   241   |    |
+| Weapons.csv      |     32   |   542   |    |
+  
 
 ### 사용한 자원
 - [네오둥근모 프로젝트](https://github.com/Dalgona/neodgm) : 사용된 한글 글꼴  
