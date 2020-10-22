@@ -7,10 +7,12 @@
 licenses
 maps
 shadersOGL
-scripts/
+/scripts/missions
+/scripts/personalities
+/scripts/*.lua
+/scripts/localization/chinese
+/scripts/localization/japanese
 #언어 패치 변경사항
 !/resources/resource.dat
 !/scripts/images.lua
 !/scripts/text.lua
-!/scripts/localization/*.*
-!.gitattributes
