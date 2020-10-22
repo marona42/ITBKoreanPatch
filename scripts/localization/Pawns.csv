@@ -36,98 +36,98 @@ JetMech,Jet Mech,Jet Mech,Mecha Jet,Jetmech,제트 메크,Mech Odrzutowy,Meka a 
 PulseMech,Pulse Mech,Pulse Mech,Mecha Impulsion,Impulsmech,펄스 메크,Mech Pulsacyjny,Meka Pulsar,Импульсный мех,Mech de pulsos
 FlameMech,Flame Mech,Flame Mech,Mecha Brasier,Feuermech,화염 메크,Mech Ognisty,Meka de Fogo,Огнеметный мех,Mech de fuego
 IgniteMech,Meteor Mech,Meteor Mech,Mecha Météore,Meteormech,메테오 메크,Mech Meteorowy,Meka Meteoro,Зажигательный мех,Mech de meteoros
-TeleMech,Swap Mech,Swap Mech,Mecha Échangeur,Teleportmech,Mech a scambio,Mech Zamienny,Meka de Troca,Портальный мех,Mech de intercam.
+TeleMech,Swap Mech,Swap Mech,Mecha Échangeur,Teleportmech,교환 메크,Mech Zamienny,Meka de Troca,Портальный мех,Mech de intercam.
 LaserMech,Laser Mech,Laser Mech,Mecha Laser,Lasermech,레이저 메크,Mech Laserowy,Meka Laser,Лазерный мех,Mech de láseres
 ChargeMech,Charge Mech,Charge Mech,Mecha Charge,Sturmmech,돌격 메크,Mech Szarżujący,Meka Vanguarda,Таранный мех,Mech de carga
 ScienceMech,Defense Mech,Defense Mech,Mecha Défense,Abwehrmech,방어 메크,Mech Obronny,Meka Defensor,Защитный мех,Mech de defensa
-GuardMech,Aegis Mech,Aegis Mech,Mecha Égide,Aegismech,Mech egida,Mech Tarczownik,Meka Égide,Блокирующий мех,Mech de égida
+GuardMech,Aegis Mech,Aegis Mech,Mecha Égide,Aegismech,방패 메크,Mech Tarczownik,Meka Égide,Блокирующий мех,Mech de égida
 MirrorMech,Mirror Mech,Mirror Mech,Mecha Miroir,Spiegelmech,미러 메크,Mech Lustrzany,Meka Espelho,Зеркальный мех,Mech de espejo
 IceMech,Ice Mech,Ice Mech,Mecha Givre,Eismech,얼음 메크,Mech Lodowy,Meka de Gelo,Ледяной мех,Mech de hielo
 ElectricMech,Lightning Mech,Lightning Mech,Mecha Foudre,Blitzmech,전격 메크,Mech Biczownik,Meka Trovão,Разрядный мех,Mech de rayos
 WallMech,Hook Mech,Hook Mech,Mecha Crochet,Hakenmech,후크 메크,Mech Kotwiczny,Meka Gancho,Гарпунный мех,Mech de garfio
-RockartMech,Boulder Mech,Boulder Mech,Mecha Rocher,Felsenmech,Mech macigno,Mech Kamienny,Meka Pedregulho,Камнеметный мех,Mech de piedras
-LeapMech,Leap Mech,Leap Mech,Mecha Bondissant,Sprungmech,Mech saltante,Mech Skaczący,Meka Saltador,Прыжковый мех,Mech de saltos
-UnstableTank,Unstable Mech,Unstable Mech,Mecha Instable,Instabiler Mech,Mech instabile,Mech Niestabilny,Meka Instável,Нестабильный мех,Mech inestable
+RockartMech,Boulder Mech,Boulder Mech,Mecha Rocher,Felsenmech,바위 메크,Mech Kamienny,Meka Pedregulho,Камнеметный мех,Mech de piedras
+LeapMech,Leap Mech,Leap Mech,Mecha Bondissant,Sprungmech,도약 메크,Mech Skaczący,Meka Saltador,Прыжковый мех,Mech de saltos
+UnstableTank,Unstable Mech,Unstable Mech,Mecha Instable,Instabiler Mech,불안정 메크,Mech Niestabilny,Meka Instável,Нестабильный мех,Mech inestable
 NanoMech,Nano Mech,Nano Mech,Nano-Mecha,Nanomech,나노-메크,Mech Nanobotowy,Meka Nano,Наномех,Nanomech
-BeetleMech,Techno-Beetle,Techno-Beetle,Techno-Coléoptère,Techno-Käfer,Tecno-Coleottero,Techno-żuk,Tecnobesouro,Техножук,Tecnoescarabajo
-HornetMech,Techno-Hornet,Techno-Hornet,Techno-Frelon,Techno-Hornisse,Tecno-Calabrone,Techno-osa,Tecnomarimbondo,Техношершень,Tecnoavispón
-ScarabMech,Techno-Scarab,Techno-Scarab,Techno-Scarabée,Techno-Skarabäus,Tecno-Scarabeo,Techno-skarabeusz,Tecnoescaravelho,Техноскарабей,Tecnocoleóptero
+BeetleMech,Techno-Beetle,Techno-Beetle,Techno-Coléoptère,Techno-Käfer,Techno-Beetle,Techno-żuk,Tecnobesouro,Техножук,Tecnoescarabajo
+HornetMech,Techno-Hornet,Techno-Hornet,Techno-Frelon,Techno-Hornisse,Techno-Hornet,Techno-osa,Tecnomarimbondo,Техношершень,Tecnoavispón
+ScarabMech,Techno-Scarab,Techno-Scarab,Techno-Scarabée,Techno-Skarabäus,Techno-Scarab,Techno-skarabeusz,Tecnoescaravelho,Техноскарабей,Tecnocoleóptero
 RockMech,Rock Mech,Rock Mech,Mecha Pierre,Felsenmech,암석 메크,Mech Skalny,Meka Rocha,Камнестрел,Mech de rocas
-SupportDrone,Combat Drone,Combat Drone,Drone de combat,Kampfdrohne,Drone da combattimento,Dron Bojowy,Drone de Combate,Боевой дрон,Dron de combate
-CivilianTruck,Civilian Support,Civilian Support,Soutien civil,Civilian Support,Supporto civile,Ciężarówka Wsparcia,Suporte Civil,Машина поддержки,Apoyo civil
+SupportDrone,Combat Drone,Combat Drone,Drone de combat,Kampfdrohne,전투 드론,Dron Bojowy,Drone de Combate,Боевой дрон,Dron de combate
+CivilianTruck,Civilian Support,Civilian Support,Soutien civil,Civilian Support,민간 트럭,Ciężarówka Wsparcia,Suporte Civil,Машина поддержки,Apoyo civil
 CivilianTank,Civilian Tank,Civilian Tank,Tank civil,Hilfspanzer,민병 탱크,Czołg Wsparcia,Tanque Civil,Танк поддержки,Tanque civil
 CivilianArt,Civilian Artillery,Civilian Artillery,Artillerie civile,Hilfsartillerie,민병 포대,Artyleria Wsparcia,Artilharia Civil,Орудие поддержки,Artillería civil
-Wall,Boulder,Boulder,Rocher,Felsen,Macigno,Skała,Pedregulho,Валун,Piedra
-RockThrown,Boulder,Boulder,Rocher,Felsen,Macigno,Skała,Pedregulho,Валун,Piedra
-Turret,Defense Turret,Defense Turret,Tourelle de défense,Geschützturm,Torretta di difesa,Wieżyczka Obronna,Torreta Defensora,Защитная турель,Torreta de defensa
-Generator,Generator,Generator,Générateur,Generator,Generatore,Generator,Gerador,Генератор,Generador
+Wall,Boulder,Boulder,Rocher,Felsen,바위,Skała,Pedregulho,Валун,Piedra
+RockThrown,Boulder,Boulder,Rocher,Felsen,바위,Skała,Pedregulho,Валун,Piedra
+Turret,Defense Turret,Defense Turret,Tourelle de défense,Geschützturm,방어 포탑,Wieżyczka Obronna,Torreta Defensora,Защитная турель,Torreta de defensa
+Generator,Generator,Generator,Générateur,Generator,Generator,Generator,Gerador,Генератор,Generador
 Blobber1,Blobber,Blobber,Bubonneur,Blobber,Blobber,Gluciarz,Melequento,Плеватель,Pringoso
-Blobber2,Alpha Blobber,Alpha Blobber,Bubonneur Alpha,Alpha-Blobber,Blobber Alfa,Gluciarz Alfa,Melequento Alfa,Плеватель-альфа,Pringoso alfa
+Blobber2,Alpha Blobber,Alpha Blobber,Bubonneur Alpha,Alpha-Blobber,Alpha Blobber,Gluciarz Alfa,Melequento Alfa,Плеватель-альфа,Pringoso alfa
 Blob1,Blob,Blob,Bubon,Blob,Blob,Glut,Meleca,Плевок,Pringue
-Blob2,Alpha Blob,Alpha Blob,Bubon Alpha,Alpha-Blob,Blob Alfa,Glut Alfa,Meleca Alfa,Плевок-альфа,Pringue alfa
-Scorpion1,Scorpion,Scorpion,Scorpion,Skorpion,Scorpione,Skorpion,Escorpião,Скорпион,Escorpión
-Scorpion2,Alpha Scorpion,Alpha Scorpion,Scorpion Alpha,Alpha-Skorpion,Scorpione Alfa,Skorpion Alfa,Escorpião Alfa,Скорпион-альфа,Escorpión alfa
-Firefly1,Firefly,Firefly,Libellule,Glühwurm,Libellula,Świetlik,Vagalume,Светляк,Luciérnaga
-Firefly2,Alpha Firefly,Alpha Firefly,Libellule Alpha,Alpha-Glühwurm,Libellula Alfa,Świetlik Alfa,Vagalume Alfa,Светляк-альфа,Luciérnaga alfa
-Leaper1,Leaper,Leaper,Bondissant,Springer,Saltatore,Skoczek,Pulador,Прыгун,Saltador
-Leaper2,Alpha Leaper,Alpha Leaper,Bondissant Alpha,Alpha-Springer,Saltatore Alfa,Skoczek Alfa,Pulador Alfa,Прыгун-альфа,Saltador alfa
-Beetle1,Beetle,Beetle,Coléoptère,Käfer,Coleottero,Żuk,Besouro,Жук,Escarabajo
-Beetle2,Alpha Beetle,Alpha Beetle,Coléoptère Alpha,Alpha-Käfer,Coleottero Alfa,Żuk Alfa,Besouro Alfa,Жук-альфа,Escarabajo alfa
-Scarab1,Scarab,Scarab,Scarabée,Skarabäus,Scarabeo,Skarabeusz,Escaravelho,Скарабей,Coleóptero
-Scarab2,Alpha Scarab,Alpha Scarab,Scarabée Alpha,Alpha-Skarabäus,Scarabeo Alfa,Skarabeusz Alfa,Escaravelho Alfa,Скарабей-альфа,Coleóptero alfa
-Crab1,Crab,Crab,Crabe,Krabbe,Granchio,Krab,Caranguejo,Краб,Cangrejo
-Crab2,Alpha Crab,Alpha Crab,Crabe Alpha,Alpha-Krabbe,Granchio Alfa,Krab Alfa,Caranguejo Alfa,Краб-альфа,Cangrejo alfa
-Centipede1,Centipede,Centipede,Géophile,Tausendfüßer,Millepiedi,Stonoga,Centopeia,Многоножка,Ciempiés
-Centipede2,Alpha Centipede,Alpha Centipede,Géophile Alpha,Alpha-Tausendfüßer,Millepiedi Alfa,Stonoga Alfa,Centopeia Alfa,Многоножка-альфа,Ciempiés alfa
-Digger1,Digger,Digger,Foreur,Gräber,Scavatore,Kopacz,Escavador,Строитель,Tunelador
-Digger2,Alpha Digger,Alpha Digger,Foreur Alpha,Alpha-Gräber,Scavatore Alfa,Kopacz Alfa,Escavador Alfa,Строитель-альфа,Tunelador alfa
-Hornet1,Hornet,Hornet,Frelon,Hornisse,Calabrone,Osa,Marimbondo,Шершень,Avispón
-Hornet2,Alpha Hornet,Alpha Hornet,Frelon Alpha,Alpha-Hornisse,Calabrone Alfa,Osa Alfa,Marimbondo Alfa,Шершень-альфа,Avispón alfa
-Jelly_Health1,Soldier Psion,Soldier Psion,Psion Soldat,Soldaten-Psion,Psionico soldato,Życiodajny Psionik,Soldado Psion,Рядовой псион,Psiónico soldado
-Jelly_Armor1,Shell Psion,Shell Psion,Psion Carapace,Panzer-Psion,Psionico corazzato,Pancerny Psionik,Psion de Carapaça,Панцирный псион,Psiónico protector
-Jelly_Regen1,Blood Psion,Blood Psion,Psion Sanguin,Blut-Psion,Psionico ematico,Krwawy Psionik,Psion de Sangue,Кровавый псион,Psiónico de sangre
-Jelly_Explode1,Blast Psion,Blast Psion,Psion Explosif,Spreng-Psion,Psionico esplosivo,Wybuchowy Psionik,Psion de Explosões,Разрывной псион,Psiónico explosivo
-Jelly_Lava1,Psion Tyrant,Psion Tyrant,Psion Tyran,Psion-Tyrann,Tiranno psionico,Tyraniczny Psionik,Tirano Psion,Угнетающий псион,Psiónico tirano
-Spider1,Spider,Spider,Araignée,Spinne,Ragno,Pająk,Aranha,Паук,Araña
-Spider2,Alpha Spider,Alpha Spider,Araignée Alpha,Alpha-Spinne,Ragno Alfa,Pająk Alfa,Aranha Alfa,Паук-альфа,Araña alfa
-WebbEgg1,Spiderling Egg,Spiderling Egg,Œuf d'Épeire,Spinnlingsei,Uovo di ragnetto,Kokon,Ovo de Aranhinha,Паучье яйцо,Huevo de aracnoide
-Spiderling1,Spiderling,Spiderling,Épeire,Spinnling,Ragnetto,Pajęczak,Aranhinha,Паучок,Aracnoide
-Spiderling2,Alpha Spiderling,Alpha Spiderling,Épeire Alpha,Alpha-Spinnling,Ragnetto Alfa,Pajęczak Alfa,Aranhinha Alfa,Паучок-альфа,Aracnoide alfa
-Burrower1,Burrower,Burrower,Fouisseur,Wühler,Scavatore,Zakopywacz,Tuneleiro,Тоннельщик,Tunelador
-Burrower2,Alpha Burrower,Alpha Burrower,Fouisseur Alpha,Alpha-Wühler,Scavatore Alfa,Zakopywacz Alfa,Tuneleiro Alfa,Тоннельщик-альфа,Tunelador alfa
-Snowtank1,Cannon-Bot,Cannon-Bot,Robot Canon,Kanonenbot,Bot cannoniere,Działobot,Bot-Canhão,Пушечный бот,Robocañón
-Snowtank2,Cannon-Mech,Cannon-Mech,Mecha Canon,Kanonenmech,Mech cannoniere,Działomech,Meka-Canhão,Пушечный мех,Mech de cañón
-Snowart1,Artillery-Bot,Artillery-Bot,Robot Artilleur,Artilleriebot,Bot artigliere,Artyleriobot,Bot-Artilharia,Арт. бот,Bot de artillería
-Snowart2,Artillery-Mech,Artillery-Mech,Mecha Artilleur,Artilleriemech,Mech artigliere,Artyleriomech,Meka-Artilharia,Арт. мех,Mech de artillería
-Snowlaser1,Laser-Bot,Laser-Bot,Robot Laser,Laserbot,Bot laser,Laserobot,Bot-Laser,Лазерный бот,Bot de láseres
-Snowlaser2,Laser-Mech,Laser-Mech,Mecha Laser,Lasermech,Mech laser,Laseromech,Meka-Laser,Лазерный мех,Mech de láseres
-Snowmine1,Mine-Bot,Mine-Bot,Robot Mine,Minenbot,Bot minato,Minobot,Bot-Mina,Бот-минер,Bot de minas
-Snowmine2,Mine-Mech,Mine-Mech,Mecha Mine,Minenmech,Mech minato,Minomech,Meka-Mina,Мех-минер,Mech de minas
-Train_Pawn,Supply Train,Supply Train,Train de provisions,Nachschubzug,Treno di scorte,Pociąg dostawczy,Trem de Suprimentos,Поезд,Tren de suministros
-Train_Damaged,Damaged Train,Damaged Train,Train endommagé,Beschädigter Zug,Treno danneggiato,Uszkodzony pociąg,Trem Danificado,Поврежд. поезд,Tren dañado
-ArchiveArtillery,Artillery Support,Artillery Support,Soutien d'artillerie,Artillerieunterstützung,Supporto di artiglieria,Wyrzutnia Rakiet,Artilharia de Suporte,Артподдержка,Apoyo artillero
-Dam_Pawn,Old Earth Dam,Old Earth Dam,Barrage terrestre,Alte-Welt-Damm,Diga Vecchia Terra,Tama Dawnej Ziemi,Barragem da Terra Antiga,Старая дамба,Presa de la Vieja Tierra
-SatelliteRocket,Satellite Rocket,Satellite Rocket,Fusée satellite,Satellitenrakete,Razzo satellite,Rakieta Satelitarna,Satélite Foguete,Ракета-носитель,Cohete de satélite
-Archive_Tank,Archive Tank,Archive Tank,Tank Archive,Archive-Panzer,Carro armato Archive,Czołg Archive,Tanque do Arquivo,Танк «Архивов»,Tanque de Archivo
-Acid_Tank,A.C.I.D. Tank,A.C.I.D. Tank,Tank A.C.I.D.E.,A.C.I.D.U.M.-Panzer,Carro armato A.C.I.D.O.,Czołg K.W.A.S-owy,Tanque A.C.I.D.,Хим. танк,Tanque de A.C.I.D.O.
-Disposal_Unit,A.C.I.D. Launcher,A.C.I.D. Launcher,Lanceur A.C.I.D.E.,A.C.I.D.U.M.-Werfer,Lancia-A.C.I.D.O.,Wyrzutnia K.W.A.S-u,Lançador A.C.I.D.,Хим. установка,Lanzador de A.C.I.D.O.
-Filler_Pawn,Earth Mover,Earth Mover,Remodeleur,Erdwandler,Trasformaterra,Ziemiogrzmot,Terramotor,Уравнитель,Excavadora
+Blob2,Alpha Blob,Alpha Blob,Bubon Alpha,Alpha-Blob,Alpha Blob,Glut Alfa,Meleca Alfa,Плевок-альфа,Pringue alfa
+Scorpion1,Scorpion,Scorpion,Scorpion,Skorpion,Scorpion,Skorpion,Escorpião,Скорпион,Escorpión
+Scorpion2,Alpha Scorpion,Alpha Scorpion,Scorpion Alpha,Alpha-Skorpion,Alpha Scorpion,Skorpion Alfa,Escorpião Alfa,Скорпион-альфа,Escorpión alfa
+Firefly1,Firefly,Firefly,Libellule,Glühwurm,Firefly,Świetlik,Vagalume,Светляк,Luciérnaga
+Firefly2,Alpha Firefly,Alpha Firefly,Libellule Alpha,Alpha-Glühwurm,Alpha Firefly,Świetlik Alfa,Vagalume Alfa,Светляк-альфа,Luciérnaga alfa
+Leaper1,Leaper,Leaper,Bondissant,Springer,Leaper,Skoczek,Pulador,Прыгун,Saltador
+Leaper2,Alpha Leaper,Alpha Leaper,Bondissant Alpha,Alpha-Springer,Alpha Leaper,Skoczek Alfa,Pulador Alfa,Прыгун-альфа,Saltador alfa
+Beetle1,Beetle,Beetle,Coléoptère,Käfer,Beetle,Żuk,Besouro,Жук,Escarabajo
+Beetle2,Alpha Beetle,Alpha Beetle,Coléoptère Alpha,Alpha-Käfer,Alpha Beetle,Żuk Alfa,Besouro Alfa,Жук-альфа,Escarabajo alfa
+Scarab1,Scarab,Scarab,Scarabée,Skarabäus,Scarab,Skarabeusz,Escaravelho,Скарабей,Coleóptero
+Scarab2,Alpha Scarab,Alpha Scarab,Scarabée Alpha,Alpha-Skarabäus,Alpha Scarab,Skarabeusz Alfa,Escaravelho Alfa,Скарабей-альфа,Coleóptero alfa
+Crab1,Crab,Crab,Crabe,Krabbe,Crab,Krab,Caranguejo,Краб,Cangrejo
+Crab2,Alpha Crab,Alpha Crab,Crabe Alpha,Alpha-Krabbe,Alpha Crab,Krab Alfa,Caranguejo Alfa,Краб-альфа,Cangrejo alfa
+Centipede1,Centipede,Centipede,Géophile,Tausendfüßer,Centipede,Stonoga,Centopeia,Многоножка,Ciempiés
+Centipede2,Alpha Centipede,Alpha Centipede,Géophile Alpha,Alpha-Tausendfüßer,Alpha Centipede,Stonoga Alfa,Centopeia Alfa,Многоножка-альфа,Ciempiés alfa
+Digger1,Digger,Digger,Foreur,Gräber,Digger,Kopacz,Escavador,Строитель,Tunelador
+Digger2,Alpha Digger,Alpha Digger,Foreur Alpha,Alpha-Gräber,Alpha Digger,Kopacz Alfa,Escavador Alfa,Строитель-альфа,Tunelador alfa
+Hornet1,Hornet,Hornet,Frelon,Hornisse,Hornet,Osa,Marimbondo,Шершень,Avispón
+Hornet2,Alpha Hornet,Alpha Hornet,Frelon Alpha,Alpha-Hornisse,Alpha Hornet,Osa Alfa,Marimbondo Alfa,Шершень-альфа,Avispón alfa
+Jelly_Health1,Soldier Psion,Soldier Psion,Psion Soldat,Soldaten-Psion,Soldier Psion,Życiodajny Psionik,Soldado Psion,Рядовой псион,Psiónico soldado
+Jelly_Armor1,Shell Psion,Shell Psion,Psion Carapace,Panzer-Psion,Shell Psion,Pancerny Psionik,Psion de Carapaça,Панцирный псион,Psiónico protector
+Jelly_Regen1,Blood Psion,Blood Psion,Psion Sanguin,Blut-Psion,Blood Psion,Krwawy Psionik,Psion de Sangue,Кровавый псион,Psiónico de sangre
+Jelly_Explode1,Blast Psion,Blast Psion,Psion Explosif,Spreng-Psion,Blast Psion,Wybuchowy Psionik,Psion de Explosões,Разрывной псион,Psiónico explosivo
+Jelly_Lava1,Psion Tyrant,Psion Tyrant,Psion Tyran,Psion-Tyrann,Psion Tyrant,Tyraniczny Psionik,Tirano Psion,Угнетающий псион,Psiónico tirano
+Spider1,Spider,Spider,Araignée,Spinne,Spider,Pająk,Aranha,Паук,Araña
+Spider2,Alpha Spider,Alpha Spider,Araignée Alpha,Alpha-Spinne,Alpha Spider,Pająk Alfa,Aranha Alfa,Паук-альфа,Araña alfa
+WebbEgg1,Spiderling Egg,Spiderling Egg,Œuf d'Épeire,Spinnlingsei,Spiderling Egg,Kokon,Ovo de Aranhinha,Паучье яйцо,Huevo de aracnoide
+Spiderling1,Spiderling,Spiderling,Épeire,Spinnling,Spiderling,Pajęczak,Aranhinha,Паучок,Aracnoide
+Spiderling2,Alpha Spiderling,Alpha Spiderling,Épeire Alpha,Alpha-Spinnling,Alpha Spiderling,Pajęczak Alfa,Aranhinha Alfa,Паучок-альфа,Aracnoide alfa
+Burrower1,Burrower,Burrower,Fouisseur,Wühler,Burrower,Zakopywacz,Tuneleiro,Тоннельщик,Tunelador
+Burrower2,Alpha Burrower,Alpha Burrower,Fouisseur Alpha,Alpha-Wühler,Alpha Burrower,Zakopywacz Alfa,Tuneleiro Alfa,Тоннельщик-альфа,Tunelador alfa
+Snowtank1,Cannon-Bot,Cannon-Bot,Robot Canon,Kanonenbot,Cannon-Bot,Działobot,Bot-Canhão,Пушечный бот,Robocañón
+Snowtank2,Cannon-Mech,Cannon-Mech,Mecha Canon,Kanonenmech,Cannon-Mech,Działomech,Meka-Canhão,Пушечный мех,Mech de cañón
+Snowart1,Artillery-Bot,Artillery-Bot,Robot Artilleur,Artilleriebot,Artillery-Bot,Artyleriobot,Bot-Artilharia,Арт. бот,Bot de artillería
+Snowart2,Artillery-Mech,Artillery-Mech,Mecha Artilleur,Artilleriemech,Artillery-Mech,Artyleriomech,Meka-Artilharia,Арт. мех,Mech de artillería
+Snowlaser1,Laser-Bot,Laser-Bot,Robot Laser,Laserbot,Laser-Bot,Laserobot,Bot-Laser,Лазерный бот,Bot de láseres
+Snowlaser2,Laser-Mech,Laser-Mech,Mecha Laser,Lasermech,Laser-Mech,Laseromech,Meka-Laser,Лазерный мех,Mech de láseres
+Snowmine1,Mine-Bot,Mine-Bot,Robot Mine,Minenbot,Mine-Bot,Minobot,Bot-Mina,Бот-минер,Bot de minas
+Snowmine2,Mine-Mech,Mine-Mech,Mecha Mine,Minenmech,Mine-Mech,Minomech,Meka-Mina,Мех-минер,Mech de minas
+Train_Pawn,Supply Train,Supply Train,Train de provisions,Nachschubzug,보급품 기차,Pociąg dostawczy,Trem de Suprimentos,Поезд,Tren de suministros
+Train_Damaged,Damaged Train,Damaged Train,Train endommagé,Beschädigter Zug,손상된 기차,Uszkodzony pociąg,Trem Danificado,Поврежд. поезд,Tren dañado
+ArchiveArtillery,Artillery Support,Artillery Support,Soutien d'artillerie,Artillerieunterstützung,지원 포대,Wyrzutnia Rakiet,Artilharia de Suporte,Артподдержка,Apoyo artillero
+Dam_Pawn,Old Earth Dam,Old Earth Dam,Barrage terrestre,Alte-Welt-Damm,구 지구 댐,Tama Dawnej Ziemi,Barragem da Terra Antiga,Старая дамба,Presa de la Vieja Tierra
+SatelliteRocket,Satellite Rocket,Satellite Rocket,Fusée satellite,Satellitenrakete,위성 로켓,Rakieta Satelitarna,Satélite Foguete,Ракета-носитель,Cohete de satélite
+Archive_Tank,Archive Tank,Archive Tank,Tank Archive,Archive-Panzer,Archive Tank,Czołg Archive,Tanque do Arquivo,Танк «Архивов»,Tanque de Archivo
+Acid_Tank,A.C.I.D. Tank,A.C.I.D. Tank,Tank A.C.I.D.E.,A.C.I.D.U.M.-Panzer,A.C.I.D. Tank,Czołg K.W.A.S-owy,Tanque A.C.I.D.,Хим. танк,Tanque de A.C.I.D.O.
+Disposal_Unit,A.C.I.D. Launcher,A.C.I.D. Launcher,Lanceur A.C.I.D.E.,A.C.I.D.U.M.-Werfer,A.C.I.D. Launcher,Wyrzutnia K.W.A.S-u,Lançador A.C.I.D.,Хим. установка,Lanzador de A.C.I.D.O.
+Filler_Pawn,Earth Mover,Earth Mover,Remodeleur,Erdwandler,Earth Mover,Ziemiogrzmot,Terramotor,Уравнитель,Excavadora
 Terraformer,Terraformer,Terraformer,Terraformeur,Terraformer,테라포머,Terraformer,Terraformador,Терраформер,Terraformador
-Freeze_Tank,Freeze Tank,Freeze Tank,Tank Gelant,Eispanzer,Carro armato congelante,Czołg Zamrażający,Tanque Congelante,Фриз-танк,Tanque congelante
-BigBomb,Renfield Bomb,Renfield Bomb,Bombe Renfield,Renfield-Bombe,Bomba Renfield,Bomba Renfielda,Bomba Renfield,Бомба Ренфилда,Bomba Renfield
-ProtoBomb,Prototype Bomb,Prototype Bomb,Prototype de bombe,Bombenprototyp,Prototipo di bomba,Prototypowa Bomba,Bomba Protótipo,Экспериментальная бомба,Prototipo de bomba
+Freeze_Tank,Freeze Tank,Freeze Tank,Tank Gelant,Eispanzer,Freeze Tank,Czołg Zamrażający,Tanque Congelante,Фриз-танк,Tanque congelante
+BigBomb,Renfield Bomb,Renfield Bomb,Bombe Renfield,Renfield-Bombe,Renfield Bomb,Bomba Renfielda,Bomba Renfield,Бомба Ренфилда,Bomba Renfield
+ProtoBomb,Prototype Bomb,Prototype Bomb,Prototype de bombe,Bombenprototyp,Prototype Bomb,Prototypowa Bomba,Bomba Protótipo,Экспериментальная бомба,Prototipo de bomba
 BeetleBoss,Beetle Leader,Beetle Leader,Chef Coléoptère,Käfer-Anführer,딱정벌레 리더,Żuk Przywódca,Líder Besouro,Жук-лидер,Líder escarabajo
 BotBoss,Bot Leader,Bot Leader,Chef Robot,Bot-Anführer,봇 리더,Bot Przywódca,Bot-Líder,Бот-лидер,Líder bot
-FireflyBoss,Firefly Leader,Firefly Leader,Chef Libellule,Glühwurm-Anführer,Capo Libellula,Świetlik Przywódca,Líder Vagalume,Светляк-лидер,Líder luciérnaga
-BlobBoss,Large Goo,Large Goo,Gros Fangeux,Großes Gallert,Gelatina grande,Wielka Breja,Gosma Grande,Большой пузырь,Pringue grande
-BlobBossMed,Medium Goo,Medium Goo,Fangeux moyen,Mittleres Gallert,Gelatina media,Średnia Breja,Gosma Média,Средний пузырь,Pringue mediano
-BlobBossSmall,Small Goo,Small Goo,Petit Fangeux,Kleines Gallert,Gelatina piccola,Mała Breja,Gosma Pequena,Малый пузырь,Pringue pequeño
-Jelly_Boss,Psion Abomination,Psion Abomination,Abomination Psion,Psion-Abscheulichkeit,Abominio psionico,Omnipsionik,Abominação Psion,Чудовищный псион,Abominación psiónica
+FireflyBoss,Firefly Leader,Firefly Leader,Chef Libellule,Glühwurm-Anführer,Firefly Leader,Świetlik Przywódca,Líder Vagalume,Светляк-лидер,Líder luciérnaga
+BlobBoss,Large Goo,Large Goo,Gros Fangeux,Großes Gallert,Large Goo,Wielka Breja,Gosma Grande,Большой пузырь,Pringue grande
+BlobBossMed,Medium Goo,Medium Goo,Fangeux moyen,Mittleres Gallert,Medium Goo,Średnia Breja,Gosma Média,Средний пузырь,Pringue mediano
+BlobBossSmall,Small Goo,Small Goo,Petit Fangeux,Kleines Gallert,Small Goo,Mała Breja,Gosma Pequena,Малый пузырь,Pringue pequeño
+Jelly_Boss,Psion Abomination,Psion Abomination,Abomination Psion,Psion-Abscheulichkeit,Psion Abomination,Omnipsionik,Abominação Psion,Чудовищный псион,Abominación psiónica
 HornetBoss,Hornet Leader,Hornet Leader,Chef Frelon,Hornissen-Anführer,말벌 리더,Osa Przywódca,Líder Marimbondo,Шершень-лидер,Líder avispón
 ScorpionBoss,Scorpion Leader,Scorpion Leader,Chef Scorpion,Skorpion-Anführer,전갈 리더,Skorpion Przywódca,Líder Escorpião,Скорпион-лидер,Líder escorpión
 SpiderBoss,Spider Leader,Spider Leader,Chef Araignée,Spinnen-Anführer,거미 리더,Pająk Przywódca,Líder Aranha,Паук-лидер,Líder araña
 SpiderlingEgg1,Spiderling Egg,Spiderling Egg,Œuf d'Épeire,Spinnlingsei,거미 알,Kokon,Ovo de Aranhinha,Паучье яйцо,Huevo de aracnoide
-GlowingScorpion,Volatile Vek,Volatile Vek,Vek Volatil,Spreng-Vek,폭발성 V다,Wybuchowy Vek,Vek Volátil,Гремучий векк,Vek volátil
+GlowingScorpion,Volatile Vek,Volatile Vek,Vek Volatil,Spreng-Vek,폭발성 Vek,Wybuchowy Vek,Vek Volátil,Гремучий векк,Vek volátil
 Pilot_Surnames,"Huang, Ferry, Smith, Kirk, Waller, Volkov, Kim, Perez, Romano, Correa, Prieto, Montes, Berezin, Patel, Acharya, Singh, Kirby, Sanchez, Chavez, Nguyen, Lee, Zhang, Tigani, Torcasio, Koleda","Huang, Ferry, Smith, Kirk, Waller, Volkov, Kim, Perez, Romano, Correa, Prieto, Montes, Berezin, Patel, Acharya, Singh, Kirby, Sanchez, Chavez, Nguyen, Lee, Zhang, Tigani, Torcasio, Koleda","Huang, Ferry, Smith, Kirk, Waller, Volkov, Kim, Perez, Romano, Correa, Prieto, Montes, Berezin, Patel, Acharya, Singh, Kirby, Sanchez, Chavez, Nguyen, Lee, Zhang, Tigani, Torcasio, Koleda","Huang, Ferry, Smith, Kirk, Waller, Volkov, Kim, Perez, Romano, Correa, Prieto, Montes, Berezin, Patel, Acharya, Singh, Kirby, Sanchez, Chavez, Nguyen, Lee, Zhang, Tigani, Torcasio, Koleda","Huang, Ferry, Smith, Kirk, Waller, Volkov, Kim, Perez, Romano, Correa, Prieto, Montes, Berezin, Patel, Acharya, Singh, Kirby, Sanchez, Chavez, Nguyen, Lee, Zhang, Tigani, Torcasio, Koleda","Huang, Drakkainen, Smith, Kirk, Waller, Tichyj, Kim, Perez, Kelvin, Correa, Prieto, Montes, Berezin, Patel, Acharya, Singh, Kirby, Sanchez, Chavez, Nguyen, Lem, Zhang, Tigani, Torcasio, Kolenda","Huang, Ferry, Smith, Kirk, Waller, Volkov, Kim, Perez, Romano, Correa, Prieto, Montes, Berezin, Patel, Acharya, Singh, Kirby, Sanchez, Chavez, Nguyen, Lee, Zhang, Tigani, Torcasio, Koleda","Хуан, Ферри, Смит, Кирк, Уоллер, Седых, Ким, Перес, Романо, Корреа, Прието, Монтес, Мороз, Патель, Ачарья, Сингх, Кирби, Санчес, Чавес, Нгуен, Ли, Чжан, Тигани, Торкасио, Коледа","Huang, Ferry, Smith, Kirk, Waller, Volkov, Kim, Pérez, Romano, Correa, Prieto, Montes, Berezin, Patel, Acharya, Singh, Kirby, Sánchez, Chávez, Nguyen, Lee, Zhang, Tigani, Torcasio, Koleda"
 Female_First,"Willow, Alison, Chloe, Maria, Ana, Clara, Amelia, Tatiana, Zoe, Myra, Esther, Nadia, Nora, Ayesha, Sofia, Isabel, Jill, Isla, Airilee, Sam, Urbana, Estelle, Ilona, Mikayla, Elizabeth, Lauren ","Willow, Alison, Chloe, Maria, Ana, Clara, Amelia, Tatiana, Zoe, Myra, Esther, Nadia, Nora, Ayesha, Sofia, Isabel, Jill, Isla, Airilee, Sam, Urbana, Estelle, Ilona, Mikayla, Elizabeth, Lauren ","Willow, Alison, Chloe, Maria, Ana, Clara, Amelia, Tatiana, Zoe, Myra, Esther, Nadia, Nora, Ayesha, Sofia, Isabel, Jill, Isla, Airilee, Sam, Urbana, Estelle, Ilona, Mikayla, Elizabeth, Lauren ","Willow, Alison, Chloe, Maria, Ana, Clara, Amelia, Tatiana, Zoe, Myra, Esther, Nadia, Nora, Ayesha, Sofia, Isabel, Jill, Isla, Airilee, Sam, Urbana, Estelle, Ilona, Mikayla, Elizabeth, Lauren ","Willow, Alison, Chloe, Maria, Ana, Clara, Amelia, Tatiana, Zoe, Myra, Esther, Nadia, Nora, Ayesha, Sofia, Isabel, Jill, Isla, Airilee, Sam, Urbana, Estelle, Ilona, Mikayla, Elizabeth, Lauren ","Willow, Alison, Chloe, Maria, Ana, Clara, Amelia, Tatiana, Zoe, Myra, Esther, Nadia, Nora, Ayesha, Sofia, Isabel, Cirilla, Isla, Airilee, Sam, Urbana, Estelle, Ilona, Michaiła, Elizabeth, Lauren ","Willow, Alison, Chloe, Maria, Ana, Clara, Amelia, Tatiana, Zoe, Myra, Esther, Nadia, Nora, Ayesha, Sofia, Isabel, Jill, Isla, Airilee, Sam, Urbana, Estelle, Ilona, Mikayla, Elizabeth, Lauren ","Уиллоу, Элисон, Хлоя, Мария, Ана, Клара, Амелия, Татьяна, Зои, Мира, Эстер, Надя, Нора, Аиша, София, Изабель, Джилл, Исла, Эйрили, Сэм, Урбана, Эстель, Илона, Микайла, Элизабет, Лорен ","Willow, Alison, Chloe, María, Ana, Clara, Amelia, Tatiana, Zoe, Myra, Esther, Nadia, Nora, Ayesha, Sofía, Isabel, Jill, Isla, Airilee, Sam, Urbana, Estelle, Ilona, Mikayla, Elizabeth, Lauren "
 Male_First,"Peter, David, Pierre, Mateo, Elijah, Dylan, Alexis, Miguel, Ori, Omar, Aidan, Anton, Leo, Liam, Nikola, Stefan, Maxim, Fox, Bigby, Charlie, Michael, Nick, Sergei, Philip, Thuy, Collin, Steve","Peter, David, Pierre, Mateo, Elijah, Dylan, Alexis, Miguel, Ori, Omar, Aidan, Anton, Leo, Liam, Nikola, Stefan, Maxim, Fox, Bigby, Charlie, Michael, Nick, Sergei, Philip, Thuy, Collin, Steve","Peter, David, Pierre, Mateo, Elijah, Dylan, Alexis, Miguel, Ori, Omar, Aidan, Anton, Leo, Liam, Nikola, Stefan, Maxim, Fox, Bigby, Charlie, Michael, Nick, Sergei, Philip, Thuy, Collin, Steve","Peter, David, Pierre, Mateo, Elijah, Dylan, Alexis, Miguel, Ori, Omar, Aidan, Anton, Leo, Liam, Nikola, Stefan, Maxim, Fox, Bigby, Charlie, Michael, Nick, Sergei, Philip, Thuy, Collin, Steve","Peter, David, Pierre, Mateo, Elijah, Dylan, Alexis, Miguel, Ori, Omar, Aidan, Anton, Leo, Liam, Nikola, Stefan, Maxim, Fox, Bigby, Charlie, Michael, Nick, Sergei, Philip, Thuy, Collin, Steve","Peter, David, Pierre, Mateo, Elijah, Vuko, Alexis, Miguel, Ori, Omar, Aidan, Anton, Leo, Liam, Nikola, Stefan, Maksim, Fox, Bigby, Charlie, Michael, Nick, Sergiej, Philip, Thuy, Collin, Steve","Peter, David, Pierre, Mateo, Elijah, Dylan, Alexis, Miguel, Ori, Omar, Aidan, Anton, Leo, Liam, Nikola, Stefan, Maxim, Fox, Bigby, Charlie, Michael, Nick, Sergei, Philip, Thuy, Collin, Steve","Питер, Дэвид, Пьер, Матео, Элайджа, Дилан, Алексей, Мигель, Ори, Омар, Эйдан, Антон, Лео, Лиам, Никола, Стефан, Максим, Фокс, Бигби, Чарли, Майкл, Ник, Сергей, Филип, Тай, Колин, Стив","Peter, David, Pierre, Mateo, Elijah, Dylan, Alexis, Miguel, Ori, Omar, Aidan, Anton, Leo, Liam, Nikola, Stefan, Maxim, Fox, Bigby, Charlie, Michael, Nick, Sergei, Philip, Thuy, Collin, Steve"
