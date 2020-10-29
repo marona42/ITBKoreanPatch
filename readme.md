@@ -51,10 +51,10 @@ Pull Request, Issue tracker 추가, 이메일 등 기여는 어떤 방법으로�
 | Missions.csv     |     2    |   406   |    |
 | New.csv          |     264  |   264   |    |
 | Objectives.csv   |     144  |   145   |    |
-| Pawns.csv        |     130  |   135   |    |
+| Pawns.csv        |     134  |   135   |    |
 | Pilots.csv       |     12   |   4714  |    |
 | Population.csv   |     123  |   123   |    |
-| Tooltips.csv     |     40   |   241   |    |
+| Tooltips.csv     |     241  |   241   |    |
 | Weapons.csv      |     32   |   542   |    |
   
 
