@@ -1,6 +1,7 @@
 #*.*
 *.dll
 *.exe
+*.dat
 *.bank
 .egstore
 .old_git
