@@ -583,7 +583,7 @@ Button_Hangar_Recustom,Edit Squad,Edit Squad,Éditer l'escadron,Einheit bearbeit
 Hangar_Custom_Locked,"Unlock the Squad ""$1"" to use this Mech","Unlock the Squad ""$1"" to use this Mech",Débloquez l'escadron $1 pour pouvoir utiliser ce Mecha.,"Schalte die Einheit ""$1"" frei, um diesen Mech zu benutzen.","이 메크를 쓰기 위해 ""$1""분대 잠금해제 필요","Odblokuj oddział $1, aby używać tych barw.","Desbloqueie o Esquadrão ""$1"" para usar este meka.","Получите доступ к отряду «$1», чтобы использовать этот мех",Desbloquea el escuadrón de los $1 para usar este mech.
 Hangar_Custom_Locked_Title,Locked Mech,Locked Mech,Mecha verrouillé,Gesperrter Mech,잠긴 메크,Zablokowany mech,Meka Bloqueado,Недоступный мех,Mech bloqueado
 Button_Hangar_Start,Start,Start Game,Lancer la partie,Starten,시작,Rozpocznij grę,Iniciar,Начать,Empezar
-Button_Hangar_Back,Back,Back,Retour,Zurück,돌아가기,Wstecz,Voltar,Назад,Atrás
+Button_Hangar_Back,Back,Back,Retour,Zurück,뒤로,Wstecz,Voltar,Назад,Atrás
 Hangar_Random,Random Mech,Random Mech,Mecha aléatoire,Zufälliger Mech,무작위 메크,Losowy mech,Meka Aleatório,Случайный мех,Mech aleatorio
 Hangar_Select,Squad Selection,Squad Selection,Sélection d'escadron,Einheitsauswahl,분대 선택,Wybór oddziału,Escolher Esquadrão,Выбор отряда,Selección de escuadrón
 Hangar_Achievements_Title,Achievements,Achievements,Succès,Erfolge,도전과제,Osiągnięcia,Conquistas,Достижения,Logros
