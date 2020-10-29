@@ -55,7 +55,7 @@ Pull Request, Issue tracker 추가, 이메일 등 기여는 어떤 방법으로�
 | Pilots.csv       |     12   |   4714  |    |
 | Population.csv   |     123  |   123   |    |
 | Tooltips.csv     |     241  |   241   |    |
-| Weapons.csv      |     32   |   542   |    |
+| Weapons.csv      |     185  |   542   |    |
   
 
 ### 사용한 자원
