@@ -46,17 +46,16 @@ Pull Request, Issue tracker 추가, 이메일 등 기여는 어떤 방법으로�
 
 | 번역 텍스트      | 번역완료 | 총 분량 | 검수 |
 |------------------|----------|---------|----|
-| Achievements.csv |     155  |   155   |    |
-| Global.csv       |     605  |   869   |    |
-| Missions.csv     |     2    |   406   |    |
-| New.csv          |     264  |   264   |    |
-| Objectives.csv   |     144  |   145   |    |
-| Pawns.csv        |     134  |   135   |    |
-| Pilots.csv       |     12   |   4714  |    |
-| Population.csv   |     123  |   123   |    |
-| Tooltips.csv     |     241  |   241   |    |
-| Weapons.csv      |     185  |   542   |    |
-  
+| Achievements.csv |    155   |   155   |    |
+| Global.csv       |    869   |   869   |    |
+| Missions.csv     |    2     |   406   |    |
+| New.csv          |    264   |   264   |    |
+| Objectives.csv   |    144   |   145   |    |
+| Pawns.csv        |    134   |   135   |    |
+| Pilots.csv       |    12    |   4714  |    |
+| Population.csv   |    123   |   123   |    |
+| Tooltips.csv     |    241   |   241   |    |
+| Weapons.csv      |    185   |   542   |    |
 
 ### 사용한 자원
 
