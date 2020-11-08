@@ -5,7 +5,7 @@
 이 레포지토리를 [다운로드](https://github.com/marona42/ITBKoreanPatch/archive/main.zip) 해 인투더브리치가 설치된 폴더에 덮어쓰기 하면 됩니다.  
 
 - 단, resource.dat의 경우 용량의 문제로 __따로 다운받아야 합니다__.  
-  - [Git lfs 업로드](https://github.com/marona42/ITBKoreanPatch/raw/main/resources/resource.dat)  
+  - [구글 드라이브 업로드](https://drive.google.com/file/d/1I6SxLHsE6vhBt9W1z1CmVSrLqiUNethH/view?usp=sharing)  
   다른 다운로드 수단이 지원되면 추가하겠습니다.
 
   - resource.dat의 경우 원본 파일에 한글 글꼴 데이터가 병합된 것으로, 한 번 받으면 그 이후 다시 받지 않아도 됩니다. 하지만, 글꼴 파일이 변경된 경우 다시 받아야 합니다.
