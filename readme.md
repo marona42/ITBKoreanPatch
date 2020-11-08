@@ -34,13 +34,14 @@ Pull Request, Issue tracker 추가, 이메일 등 기여는 어떤 방법으로�
 
 ### 필요한 일
 
-1. - [ ] 글꼴 선정  
+1. - [x] 글꼴 선정  
    - 더 좋은 글꼴을 찾으면 변경 될 수 있습니다!
 2. - [ ] 1차 번역  
 3. - [ ] 고유명사 통일  
 4. - [ ] 2차 번역  
 5. - [ ] 번역 검수  
-6. - [ ] subsetgames와 연락해 공식 번역으로 선정되기  
+6. - [ ] 글꼴 데이터 최적화  
+7. - [ ] subsetgames와 연락해 공식 번역으로 선정되기  
   
 ### 번역 현황
 
@@ -55,9 +56,10 @@ Pull Request, Issue tracker 추가, 이메일 등 기여는 어떤 방법으로�
 | Pilots.csv       |    160   |   4714  |    |
 | Population.csv   |    123   |   123   |    |
 | Tooltips.csv     |    241   |   241   |    |
-| Weapons.csv      |    185   |   542   |    |
+| Weapons.csv      |    541   |   542   |    |
 
 ### 사용한 자원
 
 - [네오둥근모 프로젝트](https://github.com/Dalgona/neodgm) : 사용된 한글 글꼴  
+- [도스 글꼴](https://github.com/hurss/fonts) : 사용된 한글 보조 글꼴  
 - [FTL UnPacker](https://subsetgames.com/forum/viewtopic.php?t=2788) : resource.dat 에 한글 글꼴 병합
