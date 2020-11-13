@@ -357,7 +357,7 @@ Skill_WrongClass, No matching Mech class. \n 1 Power penalty applies., No matchi
 Skill_CyborgOnly,Non-Cyborg Weapon,Non-Cyborg Weapon,Arme autre que pour Cyborg,Nicht-Cyborg-Waffe,비-사이보그 무장,Nie dla Cyborgów,Arma Não-Ciborgue,Оружие не для киборга,Arma no cíborg
 Pilot_Special,Special,Special,Spécial,Spezial,특수능력,Zdolność spec.,Especial,Спецспособность,Especial
 Pilot_PowerReq,Requires $1 power,Requires $1 power,Nécessite une puissance de $1,Braucht $1 Energie,$1 전력 필요,Wymagana moc: $1,Requer $1 de energia,Требует $1 ед. энергии,Requiere $1 de energía
-Pilot_Powered,Powered,Powered,Alimenté,Aktiviert,전원 켜짐,Zasilany,Energizado,Есть питание,Eléctrico
+Pilot_Powered,Powered,Powered,Alimenté,Aktiviert,능력 켜짐,Zasilany,Energizado,Есть питание,Eléctrico
 Pilot_None,None,None,Aucun,Keine,없음,Brak,Nenhum,Нет,Ninguno
 Pilot_Max,Max Level,Max Level,Niveau max,Max. Stufe,최대 레벨,Maks. poziom,Nível Máx.,Максимальный уровень,Nivel máximo
 Pilot_XP,$1 / $2 xp,$1 / $2 xp,$1 XP/$2,$1 / $2 EP,$1 / $2 경험치,$1 / $2 PD,$1 / $2 exp,$1 / $2 ОП,$1/$2 EXP
@@ -731,7 +731,7 @@ Alert_PilotCores,PILOT & POWER AVAILABLE,PILOT & POWER AVAILABLE,PILOTE ET PUISS
 Alert_Overflow,DEFENSE UP!,DEFENSE UP!,DÉFENSE AUGMENTÉE !,ABWEHR AKTIV!,방어율 증가!,OBRONA ZWIĘKSZONA!,+ DEFESA!,УЛУЧШЕНИЕ ЗАЩИТЫ!,¡DEFENSA ACTIVA!
 Alert_FullOverflow,GRID MAX!,GRID MAX!,RÉSEAU AU MAX !,NETZMAXIMUM!,방어율 최대!,PEŁNE ZASILANIE!,REDE NO MÁX!,СЕТЬ НА МАКСИМУМЕ!,¡RED AL MÁXIMO!
 Alert_Smoke,SMOKE BLOCKING!,SMOKE BLOCKING!,BLOCAGE FUMIGÈNE !,RAUCH BLOCKT!,연막 방해!,NIE DZIAŁA W DYMIE!,FUMAÇA BLOQUEANDO!,НЕДОСТУПНО: ДЫМ!,¡BLOQUEO POR HUMO!
-Alert_Water,MECH SUBMERGED!,MECH SUBMERGED!,MECHA SUBMERGÉ !,MECH UNTERGETAUCHT!,메크 빠짐!,MECH W WODZIE!,MEKA SUBMERSO!,МЕХ В ВОДЕ!,¡MECH SUMERGIDO!
+Alert_Water,MECH SUBMERGED!,MECH SUBMERGED!,MECHA SUBMERGÉ !,MECH UNTERGETAUCHT!,메크 침수!,MECH W WODZIE!,MEKA SUBMERSO!,МЕХ В ВОДЕ!,¡MECH SUMERGIDO!
 Alert_NoTarget,NO TARGET AVAILABLE!,NO TARGET AVAILABLE!,AUCUNE CIBLE DE DISPONIBLE !,KEIN ZIEL VERFÜGBAR!,가능한 타겟 없음,BRAK CELU!,SEM ALVO DISPONÍVEL!,ОТСУТСТВУЮТ ЦЕЛИ!,¡NO HAY BLANCOS DISPONIBLES!
 Status_Full,Some effects not listed due to lack of space,Some effects not listed due to lack of space,Certains effets ne sont pas indiqués par manque de place.,Manche Effekte aufgrund von Platzmangel nicht aufgeführt.,여백 부족으로 일부 효과 생략됨,Niektóre efekty pominięto z braku miejsca.,Alguns efeitos ficaram de fora por falta de espaço,Некоторые эффекты не поместились,No se indican algunos efectos por falta de espacio.
 SquadName_Filler,Time Travelers,Time Travelers,Voyageurs temporels,Zeitreisende,시간 여행자,Chrononauci,Viajantes Temporais,Путешественники,Viajeros del tiempo
