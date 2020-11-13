@@ -58,7 +58,7 @@ Pull Request, Issue tracker 추가, 이메일 등 기여는 어떤 방법으로�
 | Tooltips.csv     |    241   |   241   |    |
 | Weapons.csv      |    541   |   542   |    |
  
- - Pilots.csv 의 일부 번역(a672bcd744201f3902eae86b7ca037ea623759eb)에 [flameblast12](https://github.com/flameblast12) 님이 참여(#1)해주셨습니다. 감사합니다. 
+ - Pilots.csv 의 [일부 번역](https://github.com/marona42/ITBKoreanPatch/commit/a672bcd744201f3902eae86b7ca037ea623759eb)에 [flameblast12](https://github.com/flameblast12) 님이 [참여](https://github.com/marona42/ITBKoreanPatch/pull/1)해주셨습니다. 감사합니다. 
 
 ### 사용한 에셋
 
