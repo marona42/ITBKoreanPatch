@@ -1,6 +1,6 @@
 ﻿ID,English,Chinese_Simplified,French,German,Italian,Polish,Portuguese_Brazil,Russian,Spanish
 Pilot_Original_Name,Ralph Karlsson,Ralph Karlsson,Ralph Karlsson,Ralph Karlsson,랄프 칼슨,Ralph Karlsson,Ralph Karlsson,Ральф Карлссон,Ralph Karlsson
-Pilot_Artificial_Name,A.I. Unit,A.I. Unit,Unité IA,KI-Einheit,A.I. Unit,Jednostka S.I.,Unidade IA,Модуль ИИ,Unidad IA
+Pilot_Artificial_Name,A.I. Unit,A.I. Unit,Unité IA,KI-Einheit,A.I. 유닛,Jednostka S.I.,Unidade IA,Модуль ИИ,Unidad IA
 Pilot_Soldier_Name,Camila Vera,Camila Vera,Camila Vera,Camila Vera,카밀라 베라,Camila Vera,Camila Vera,Камила Вера,Camila Vera
 Pilot_Youth_Name,Lily Reed,Lily Reed,Lily Reed,Lily Reed,릴리 리드,Lily Reed,Lily Reed,Лили Рид,Lily Reed
 Pilot_Warrior_Name,Gana,Gana,Gana,Gana,가나,Gana,Gana,Гана,Gana
@@ -41,14 +41,14 @@ LaserMech,Laser Mech,Laser Mech,Mecha Laser,Lasermech,레이저 메크,Mech Lase
 ChargeMech,Charge Mech,Charge Mech,Mecha Charge,Sturmmech,돌격 메크,Mech Szarżujący,Meka Vanguarda,Таранный мех,Mech de carga
 ScienceMech,Defense Mech,Defense Mech,Mecha Défense,Abwehrmech,방어 메크,Mech Obronny,Meka Defensor,Защитный мех,Mech de defensa
 GuardMech,Aegis Mech,Aegis Mech,Mecha Égide,Aegismech,방패 메크,Mech Tarczownik,Meka Égide,Блокирующий мех,Mech de égida
-MirrorMech,Mirror Mech,Mirror Mech,Mecha Miroir,Spiegelmech,미러 메크,Mech Lustrzany,Meka Espelho,Зеркальный мех,Mech de espejo
+MirrorMech,Mirror Mech,Mirror Mech,Mecha Miroir,Spiegelmech,거울 메크,Mech Lustrzany,Meka Espelho,Зеркальный мех,Mech de espejo
 IceMech,Ice Mech,Ice Mech,Mecha Givre,Eismech,얼음 메크,Mech Lodowy,Meka de Gelo,Ледяной мех,Mech de hielo
 ElectricMech,Lightning Mech,Lightning Mech,Mecha Foudre,Blitzmech,전격 메크,Mech Biczownik,Meka Trovão,Разрядный мех,Mech de rayos
 WallMech,Hook Mech,Hook Mech,Mecha Crochet,Hakenmech,후크 메크,Mech Kotwiczny,Meka Gancho,Гарпунный мех,Mech de garfio
 RockartMech,Boulder Mech,Boulder Mech,Mecha Rocher,Felsenmech,바위 메크,Mech Kamienny,Meka Pedregulho,Камнеметный мех,Mech de piedras
 LeapMech,Leap Mech,Leap Mech,Mecha Bondissant,Sprungmech,도약 메크,Mech Skaczący,Meka Saltador,Прыжковый мех,Mech de saltos
 UnstableTank,Unstable Mech,Unstable Mech,Mecha Instable,Instabiler Mech,불안정 메크,Mech Niestabilny,Meka Instável,Нестабильный мех,Mech inestable
-NanoMech,Nano Mech,Nano Mech,Nano-Mecha,Nanomech,나노-메크,Mech Nanobotowy,Meka Nano,Наномех,Nanomech
+NanoMech,Nano Mech,Nano Mech,Nano-Mecha,Nanomech,나노 메크,Mech Nanobotowy,Meka Nano,Наномех,Nanomech
 BeetleMech,Techno-Beetle,Techno-Beetle,Techno-Coléoptère,Techno-Käfer,테크노-비틀,Techno-żuk,Tecnobesouro,Техножук,Tecnoescarabajo
 HornetMech,Techno-Hornet,Techno-Hornet,Techno-Frelon,Techno-Hornisse,테크노-호넷,Techno-osa,Tecnomarimbondo,Техношершень,Tecnoavispón
 ScarabMech,Techno-Scarab,Techno-Scarab,Techno-Scarabée,Techno-Skarabäus,테크노-스캐럽,Techno-skarabeusz,Tecnoescaravelho,Техноскарабей,Tecnocoleóptero

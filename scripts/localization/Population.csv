@@ -24,7 +24,7 @@ Closing_Dead_2,I can't believe it!,,Je n'arrive pas à le croire !,Ich fass es 
 Closing_Dead_3,Dead? All of them?,,Ils sont morts ? Tous ?,Tot? Alle?,전부? 전부 죽은거야?,Zginęły? Wszystkie?,Morreram? Todos?,Мертвы? Все?,¿Han muerto? ¿Todos?
 Closing_Dead_4,They killed them all?,,Ils sont tous morts ?,Sie haben alle getötet?,모두 해치운거야?,Wszystkie zabili?,Eles mataram todos?,Их всех перебили?,¿Los han matado a todos?
 Closing_Dead_5,They're all dead!,,Tout le monde est mort !,Sie sind alle tot!,모두 뒈졌다!,Wszystkie padły!,Eles morreram!,Их больше нет!,¡Han muerto todos!
-Closing_Dead_6,We're saved!,,Nous sommes sauvés !,Wir sind gerettet!,우린 살았어!,Jesteśmy uratowani!,Estamos salvos!,Мы спасены!,¡Estamos salvados!
+Closing_Dead_6,We're saved!,,Nous sommes sauvés !,Wir sind gerettet!,이제 우린 살았어!,Jesteśmy uratowani!,Estamos salvos!,Мы спасены!,¡Estamos salvados!
 Closing_Dead_7,You wiped them out!,,Vous les avez tous massacrés !,Ihr habt sie ausgelöscht!,전멸이다!,Wykończyliście je!,Acabaram com eles!,Вы их прямо одной левой!,¡Los habéis barrido!
 Closing_Dead_8,The #squad beat them!,,Vive #squad !,Die #squad haben sie vernichtet!,#squad분대가 이겼어!,#squad dali im popalić!,"#squad, linda vitória!",#squad всех перебили!,¡Los #squad han acabado con ellos!
 Closing_Dead_9,The Mechs wiped them out!,,Les Mechas les ont eus !,Die Mechs haben sie erledigt!,메크가 다 해치웠어!,Mechy je wybiły!,Os Mekas derrotaram todos!,Мехи всех передавили!,¡Los mechs los han barrido!
@@ -36,16 +36,16 @@ Closing_Dead_14,We survived!,,Nous avons survécu !,Wir haben überlebt!,살았
 Closing_Bad_1,Thanks... I guess.,,"Merci. Enfin, je crois...",Danke ... würde ich sagen.,감사합니다… 지금은.,Dziękujemy... chyba.,Obrigado... acho.,И на том спасибо...,"Gracias..., supongo."
 Closing_Bad_2,They did more harm than good...,,Ils ont fait plus de mal que de bien...,Sie haben mehr geschadet als geholfen.,Vek보다 더 많이 부셨어…,Zrobili więcej szkód niż pożytku...,Atrapalharam mais que ajudaram.,"Больше вреда, чем пользы...",Han hecho más mal que bien...
 Closing_Bad_3,My family... gone...,,Ma famille... Ils sont tous morts...,Meine Familie ... ausgelöscht ...,우리 가족이 죽었어….,Moja rodzina... zginęła...,Minha família... morreu...,Мои родные... погибли...,Mi familia... ha muerto...
-Closing_Bad_4,So many lost...,,Tous ces morts...,So viele Tote ...,희생자가 커…,Tak wielu odeszło...,Tantos morreram...,Столько жертв...,Hemos perdido a tantos...
+Closing_Bad_4,So many lost...,,Tous ces morts...,So viele Tote ...,너무 많이 부셔졌어…,Tak wielu odeszło...,Tantos morreram...,Столько жертв...,Hemos perdido a tantos...
 Closing_Bad_5,Are they finally gone?,,Ils sont enfin partis ?,Sind sie endlich weg?,진짜 사라진거야?,Poszły sobie?,Eles se foram de vez?,Они точно все убрались?,¿Se han ido por fin?
 Closing_Bad_6,Is it over?,,C'est fini ?,Ist es vorbei?,끝난거야?,Czy to już koniec?,Acabou?,Все точно закончилось?,¿Se ha acabado?
-Closing_Bad_7,Time to rebuild...,,"Il va falloir reconstruire, maintenant...",Zeit für den Neuaufbau ...,이제 다시 복구해야해…,Czas na odbudowę...,Hora de reconstruir...,Отстраиваться теперь...,Es hora de reconstruir...
+Closing_Bad_7,Time to rebuild...,,"Il va falloir reconstruire, maintenant...",Zeit für den Neuaufbau ...,이제 다시 복구해야 해…,Czas na odbudowę...,Hora de reconstruir...,Отстраиваться теперь...,Es hora de reconstruir...
 Closing_Perfect_1,Thank you!,,Merci !,Vielen Dank!,감사합니다!,Dziękujemy!,Muito obrigado!,Спасибо вам!,¡Gracias!
 Closing_Perfect_2,We're all okay!,,Tout le monde va bien !,Wir sind alle okay!,전부 무사해요!,Wszyscy mają się dobrze!,Estamos todos salvos!,Мы все в порядке!,¡Estamos todos bien!
 Closing_Perfect_3,Everybody all right?,,Tout le monde va bien ?,Alles in Ordnung?,모두 괜찮아요?,Nikomu nic się nie stało?,Todo mundo está bem?,Все целы?,¿Estáis todos bien?
 Closing_Perfect_4,The #squad saved us!,,Les #squad nous ont sauvés !,Die #squad haben uns gerettet!,#squad분대가 우릴 살렸어!,#squad nas uratowali!,Esquadrão #squad nos salvou!,#squad нас спасли!,¡Los #squad nos han salvado!
 Closing_Perfect_5,Three cheers for the #squad!,,Hourra pour les #squad !,Ein Hoch auf die #squad!,#squad 만만세!,Niech żyją #squad!,"#squad, viva, viva, viva!","#squad, вы лучшие!",¡Tres hurras por los #squad!
-Closing_Perfect_6,#corp is saved!,,Ils ont sauvé #corp !,#corp ist gerettet!,#corp은 살았다!,#corp jest uratowana!,#corp está a salvo!,#corp в безопасности!,¡#corp está a salvo!
+Closing_Perfect_6,#corp is saved!,,Ils ont sauvé #corp !,#corp ist gerettet!,이제 우리 #corp사는 살았어!,#corp jest uratowana!,#corp está a salvo!,#corp в безопасности!,¡#corp está a salvo!
 Closing_Perfect_7,Nothing was damaged!,,Rien n'a été détruit !,Es wurde nichts beschädigt!,아무것도 안 부셔졌어!,Nic nie ucierpiało!,Nada ficou danificado!,Они ничего не сломали!,¡Nada ha sufrido daños!
 Closing_Perfect_8,The #squad are heroes!,,Les #squad sont des héros !,Die #squad sind die Größten!,#squad 분대는 영웅이야!,#squad to bohaterowie!,"#squad, heróis de verdade!",#squad — настоящие герои!,¡Los #squad son héroes!
 Closing_Perfect_9,Perfect victory!,,Quelle victoire !,Astreiner Sieg!,완벽하게 이겼다!,Zwycięstwo doskonałe!,Vitória perfeita!,Полная победа!,¡Una victoria perfecta!
@@ -53,14 +53,14 @@ Closing_Perfect_10,Victory!,,Victoire !,Sieg!,이겼다!,Zwycięstwo!,Vitória!
 Closing_Perfect_11,Did you see that?,,Vous avez vu ça ?,Habt ihr das gesehen?,저거 봤어?,Widzieliście to?,Você viu isso?,Все это видели?,¿Habéis visto eso?
 Closing_Perfect_12,I can't believe it!,,Je n'arrive pas à le croire !,Ich fass es nicht!,믿기지 않아!,Nie mogę w to uwierzyć!,Não acredito!,Поверить не могу!,¡No me lo puedo creer!
 Frozen_1,It's so cold...,,Il fait si froid...,Es ist so kalt ...,너무 추워…,Brr... zimno...,Tá tão frio...,Так холодно...,Qué frío hace...
-Frozen_2,Grab the blankets.,,Prenez toutes les couvertures.,Schnappt euch die Decken.,이불 더 꺼내.,Idźcie po koce.,Pega os cobertores.,Тащите одеяло.,Coged las mantas.
-Frozen_3,"Huddle together, everyone.",,Serrez-vous les uns contre les autres.,Drängt euch zusammen.,이불밖은 위험해.,Stańcie bliżej! Będzie nam cieplej!,"Se aqueçam juntos, pessoal.",Нужно держаться вместе.,Apiñaos todos.
+Frozen_2,Grab the blankets.,,Prenez toutes les couvertures.,Schnappt euch die Decken.,이불 더 꺼내봐.,Idźcie po koce.,Pega os cobertores.,Тащите одеяло.,Coged las mantas.
+Frozen_3,"Huddle together, everyone.",,Serrez-vous les uns contre les autres.,Drängt euch zusammen.,이불 밖은 위험해.,Stańcie bliżej! Będzie nam cieplej!,"Se aqueçam juntos, pessoal.",Нужно держаться вместе.,Apiñaos todos.
 Frozen_4,The window's iced over!,,La fenêtre est couverte de glace !,Das Fenster ist vereist!,창문이 얼어붙었어!,Całe okno pokrył szron!,Nossa janela congelou!,Окно обледенело!,¡La ventana está congelada!
 Frozen_5,What happened?,,Qu'est-ce qui s'est passé ?,Was ist passiert?,뭔 일이야?,Co się stało?,O que aconteceu?,Что произошло?,¿Qué ha pasado?
-Frozen_6,Feels like a freezer!,,On se croirait dans un frigo !,Es ist wie in einer Tiefkühltruhe!,냉동창고 같은 걸!,Zimno jak w zamrażarce!,Parece um congelador!,Тут как в морозилке!,¡Esto parece un congelador!
+Frozen_6,Feels like a freezer!,,On se croirait dans un frigo !,Es ist wie in einer Tiefkühltruhe!,냉동고같은 걸!,Zimno jak w zamrażarce!,Parece um congelador!,Тут как в морозилке!,¡Esto parece un congelador!
 Frozen_7,It's freezing!,,On se gèle !,Es ist eiskalt!,얼어죽겠네!,Zimno jak nigdy!,Tá congelando!,Я замерзаю!,¡Hace un frío que pela!
 Frozen_8,It's too cold!,,Il fait trop froid !,Es ist zu kalt!,입돌아가겠네!,Tu jest za zimno!,Tá frio demais!,Какой дубак!,¡Hace demasiado frío!
-Frozen_9,At least we're safe?,,"Au moins, on est en sécurité, non ?",Sind wir wenigstens sicher?,적어도 안전하겠지?,Przynajmniej nic nam nie grozi...,Pelo menos estamos seguros?,Нам хоть эти-то больше не грозят?,"¿Al menos, estamos a salvo?"
+Frozen_9,At least we're safe?,,"Au moins, on est en sécurité, non ?",Sind wir wenigstens sicher?,적어도 안 죽겠지?,Przynajmniej nic nam nie grozi...,Pelo menos estamos seguros?,Нам хоть эти-то больше не грозят?,"¿Al menos, estamos a salvo?"
 Closing_1,Thank you!,,Merci !,Vielen Dank!,감사합니다!,Dziękujemy!,Obrigado!,Спасибо!,¡Gracias!
 Closing_2,They're on the run!,,Ils s'enfuient !,Sie weichen zurück!,도망간다!,Uciekają!,Eles estão fugindo!,"Драпают, гады!",¡Salen por patas!
 Closing_3,The Vek are running!,,Les Veks s'enfuient !,Die Vek weichen zurück!,Vek이 도망간다!,Veki uciekają!,Os Vek estão fugindo!,Векки бегут!,¡Los vek huyen!
@@ -77,17 +77,17 @@ Closing_13,They're fleeing!,,Ils détalent !,Sie fliehen!,퇴각한다!,Uciekaj
 Closing_14,You scared them off!,,Vous leur avez flanqué la trouille !,Ihr habt sie vertrieben!,달아난다!,Przegnaliście je!,Vocês assustaram eles!,Вы их всех распугали!,¡Los habéis espantado!
 Shielded_1,We're safe!,,Nous ne risquons plus rien !,Wir sind in Sicherheit!,이제 안전해!,Nic nam już nie grozi!,Estamos seguros!,Мы в безопасности!,¡Estamos a salvo!
 Shielded_2,Will this hold?,,Est-ce que ça tiendra ?,Hält das?,이게 먹힐까?,Czy to wystarczy?,Será que isso protege?,А это выдержит?,¿Esto resistirá?
-Shielded_3,That'll stop them!,,Ça les arrêtera !,Das wird sie aufhalten!,뭐가 와도 안심!,To ich powstrzyma!,Isso vai impedi-los!,Теперь они до нас не доберутся!,¡Esto los detendrá!
+Shielded_3,That'll stop them!,,Ça les arrêtera !,Das wird sie aufhalten!,저게 막아줄거야!,To ich powstrzyma!,Isso vai impedi-los!,Теперь они до нас не доберутся!,¡Esto los detendrá!
 Shielded_4,Shielded!,,Bouclier allumé !,Schild!,방어막!,Osłona!,Escudo!,Мы под щитом!,¡Un escudo!
-Shielded_5,We're shielded!,,Notre bouclier a été activé !,Der Schild schützt uns!,방어막이 지켜줄거야!,Osłona nas ochroni!,Recebemos um escudo!,Мы защищены!,¡Tenemos un escudo!
+Shielded_5,We're shielded!,,Notre bouclier a été activé !,Der Schild schützt uns!,방어막이다!,Osłona nas ochroni!,Recebemos um escudo!,Мы защищены!,¡Tenemos un escudo!
 Shielded_6,Shield up!,,Bouclier activé !,Schild hoch!,쉴드 업!,Osłona aktywna!,Escudo ativo!,Щит включился!,¡Escudo activado!
 Shielded_7,Safe at last!,,Enfin en sécurité !,Endlich in Sicherheit!,적어도 안전해!,Nareszcie bezpieczni!,"Enfim, protegidos!",Вот мы и в безопасности!,"¡Por fin, a salvo!"
 Shielded_8,Protection!,,Nous voilà protégés !,Schutz!,보호막!,Ochrona!,Proteção!,Вот это защита!,¡Protección!
 Opening_1,We're saved!,,Nous sommes sauvés !,Wir sind gerettet!,살았다!,Jesteśmy uratowani!,Estamos salvos!,Мы спасены!,¡Estamos salvados!
 Opening_2,I knew they'd come!,,Je savais qu'ils viendraient !,"Ich wusste, sie kommen!",믿고 있었다구!,"Wiedziałam, że przybędą!",Eu sabia que eles viriam!,"Я знал, что они нас не бросят!",¡Sabía que vendrían!
-Opening_3,The #squad!,,Regardez ! Les #squad !,Die #squad!,#squad다!,#squad!,O Esquadrão #squad!,#squad!,¡Los #squad!
+Opening_3,The #squad!,,Regardez ! Les #squad !,Die #squad!,#squad분대다!,#squad!,O Esquadrão #squad!,#squad!,¡Los #squad!
 Opening_4,It's the #squad!,,Là ! Les #squad !,Das sind die #squad!,#squad분대가 왔어!,To #squad!,#squad pra nos defender!,Это же #squad!,¡Son los #squad!
-Opening_5,Now the Vek are going to get it!,,Les Veks vont y avoir droit !,Jetzt kriegen die Vek auf die Mütze!,이제 Vek이 도망갈 차례야!,Teraz veki dostaną za swoje!,Os Vek vão ter o que merecem!,Вот теперь векки получат!,¡Los vek van a saber lo que es bueno!
+Opening_5,Now the Vek are going to get it!,,Les Veks vont y avoir droit !,Jetzt kriegen die Vek auf die Mütze!,이제 Vek이 도망갈 차례네!,Teraz veki dostaną za swoje!,Os Vek vão ter o que merecem!,Вот теперь векки получат!,¡Los vek van a saber lo que es bueno!
 Opening_6,The Vek are going to be sorry now!,,Les Veks vont le regretter !,Die Vek werden es noch bitter bereuen!,Vek에게 따끔한 맛을 보여줘!,Veki wreszcie pożałują!,Agora esses Vek vão sofrer!,Вот сейчас векки пожалеют!,¡Los vek van a lamentarlo!
 Opening_7,"Get my glasses!
 I want to see!",,"Mes lunettes, vite !

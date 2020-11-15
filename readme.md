@@ -1,5 +1,5 @@
 # 인투더브리치 한글패치
-이 레포지토리는 게임 [Into the Breach](http://subsetgames.com/itb.html) 1.2 버전 이상을 지원하는 한글 패치입니다.
+인디 게임 [Into the Breach](http://subsetgames.com/itb.html) 1.2 버전 이상을 지원하는 한글 패치입니다.
 ## 패치 적용방법
 
 이 레포지토리를 [다운로드](https://github.com/marona42/ITBKoreanPatch/archive/main.zip) 해 인투더브리치가 설치된 폴더에 덮어쓰기 하면 됩니다.  
@@ -15,6 +15,7 @@
 - 기본적으로 음역이 아닌 완역을 원칙으로 합니다.
   - Vek 유닛의 이름은 음역을 합니다.
   - 완역이 어려운 고유명사의 경우 음차나 원어 표기를 합니다. (i.e. R.S.T, 리프트 워커)
+- 단어의 끝소리에 따라 다른 조사가 쓰여야 하는 문장의 경우 구조를 변경해 최대한 그런 경우를 회피합니다. (은/는, 을/를, 이/가 등)
 - 외국 문화와 관련 있는 요소는 번역자 재량에 따릅니다.
   - 국내에 잘 알려진 요소는 그대로 넣습니다.
   - 잘 알려지지 않은 요소는 한국 문화에서 비슷한 요소를 따다 넣습니다.
@@ -45,18 +46,18 @@ Pull Request, Issue tracker 추가, 이메일 등 기여는 어떤 방법으로�
   
 ### 번역 현황
 
-| 번역 텍스트      | 번역완료 | 총 분량 | 검수 |
+| 번역 텍스트      | 번역완료 | 총 분량 | 비고 |
 |------------------|----------|---------|----|
-| Achievements.csv |    155   |   155   |    |
-| Global.csv       |    869   |   869   |    |
-| Missions.csv     |    303   |   406   |    |
-| New.csv          |    264   |   264   |    |
-| Objectives.csv   |    144   |   145   |    |
-| Pawns.csv        |    134   |   135   |    |
+| Achievements.csv |    155   |   155   | 검수중 |
+| Global.csv       |    869   |   869   | 검수중 |
+| Missions.csv     |    303   |   406   | 디트리투스 번역중 |
+| New.csv          |    264   |   264   | 검수중 |
+| Objectives.csv   |    144   |   145   | 검수중 |
+| Pawns.csv        |    134   |   135   | 검수중 |
 | Pilots.csv       |    736   |   4714  |    |
-| Population.csv   |    123   |   123   |    |
-| Tooltips.csv     |    241   |   241   |    |
-| Weapons.csv      |    541   |   542   |    |
+| Population.csv   |    123   |   123   | 검수중 |
+| Tooltips.csv     |    241   |   241   | 검수중 |
+| Weapons.csv      |    541   |   542   | 검수중 |
  
  - Pilots.csv 의 [일부 번역](https://github.com/marona42/ITBKoreanPatch/commit/a672bcd744201f3902eae86b7ca037ea623759eb)에 [flameblast12](https://github.com/flameblast12) 님이 [참여](https://github.com/marona42/ITBKoreanPatch/pull/1)해주셨습니다. 감사합니다. 
 
