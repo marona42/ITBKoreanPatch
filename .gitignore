@@ -17,3 +17,5 @@ shadersOGL
 #!/resources/resource.dat #git에서 관리하지 않습니다
 !/scripts/images.lua
 !/scripts/text.lua
+*.xlsx
+*.py
