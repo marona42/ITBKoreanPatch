@@ -46,18 +46,18 @@ Pull Request, Issue tracker 추가, 이메일 등 기여는 어떤 방법으로�
   
 ### 번역 현황
 
-| 번역 텍스트      | 번역완료 | 총 분량 | 비고 |
-|------------------|----------|---------|----|
-| Achievements.csv |    155   |   155   | 검수중 |
-| Global.csv       |    869   |   869   | 검수중 |
-| Missions.csv     |    406   |   406   | 검수중 |
-| New.csv          |    264   |   264   | 검수중 |
-| Objectives.csv   |    144   |   145   | 검수중 |
-| Pawns.csv        |    134   |   135   | 검수중 |
-| Pilots.csv       |    736   |   4714  |    |
-| Population.csv   |    123   |   123   | 검수중 |
-| Tooltips.csv     |    241   |   241   | 검수중 |
-| Weapons.csv      |    541   |   542   | 검수중 |
+| 번역 텍스트      | 총 분량 | 비고 |
+|------------------|---------|------|
+| Achievements.csv |   155   |      |
+| Global.csv       |   869   |      |
+| Missions.csv     |   406   |      |
+| New.csv          |   264   |      |
+| Objectives.csv   |   145   |      |
+| Pawns.csv        |   135   |      |
+| Pilots.csv       |   4714  |      |
+| Population.csv   |   123   |      |
+| Tooltips.csv     |   241   |      |
+| Weapons.csv      |   542   |      |
  
  - Pilots.csv 의 [일부 번역](https://github.com/marona42/ITBKoreanPatch/commit/a672bcd744201f3902eae86b7ca037ea623759eb)에 [flameblast12](https://github.com/flameblast12) 님이 [참여](https://github.com/marona42/ITBKoreanPatch/pull/1)해주셨습니다. 감사합니다. 
 
