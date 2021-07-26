@@ -68,7 +68,7 @@ Pull Request, Issue tracker 추가, 이메일 등 기여는 어떤 방법으로�
 - [x] 일반 R.S.T 조종사
 - [x] 일반 디트리투스 조종사
 - [x] 랄프 칼슨 (Original)
-- [ ] 카밀라 베라 (Solider)
+- [x] 카밀라 베라 (Solider)
 - [ ] 릴리 리드 (Youth)
 - [ ] 가나 (Warrior)
 - [ ] 아르키메데스 (Aquatic)
