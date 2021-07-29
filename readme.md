@@ -74,7 +74,7 @@ Pull Request, Issue tracker 추가, 이메일 등 기여는 어떤 방법으로�
 - [ ] 아르키메데스 (Aquatic)
 - [ ] 아이작 존스 (Medic)
 - [x] 헨리 콴 (Hotshot)
-- [ ] 베타니 존스 (Genius)
+- [x] 베타니 존스 (Genius)
 - [ ] 실리카 (Miner)
 - [ ] 프로스페로 (Recycler)
 - [x] 아베 이사무 (Assassin)
