@@ -72,7 +72,7 @@ Pull Request, Issue tracker 추가, 이메일 등 기여는 어떤 방법으로�
 - [x] 릴리 리드 (Youth)
 - [x] 가나 (Warrior)
 - [ ] 아르키메데스 (Aquatic)
-- [ ] 아이작 존스 (Medic)
+- [x] 아이작 존스 (Medic)
 - [x] 헨리 콴 (Hotshot)
 - [x] 베타니 존스 (Genius)
 - [ ] 실리카 (Miner)
