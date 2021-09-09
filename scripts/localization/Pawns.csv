@@ -55,7 +55,7 @@ ScarabMech,Techno-Scarab,Techno-Scarab,Techno-Scarabée,Techno-Skarabäus,테크
 RockMech,Rock Mech,Rock Mech,Mecha Pierre,Felsenmech,암석 메크,Mech Skalny,Meka Rocha,Камнестрел,Mech de rocas
 SupportDrone,Combat Drone,Combat Drone,Drone de combat,Kampfdrohne,전투 드론,Dron Bojowy,Drone de Combate,Боевой дрон,Dron de combate
 CivilianTruck,Civilian Support,Civilian Support,Soutien civil,Civilian Support,민간 트럭,Ciężarówka Wsparcia,Suporte Civil,Машина поддержки,Apoyo civil
-CivilianTank,Civilian Tank,Civilian Tank,Tank civil,Hilfspanzer,민병 탱크,Czołg Wsparcia,Tanque Civil,Танк поддержки,Tanque civil
+CivilianTank,Civilian Tank,Civilian Tank,Tank civil,Hilfspanzer,민병 전차,Czołg Wsparcia,Tanque Civil,Танк поддержки,Tanque civil
 CivilianArt,Civilian Artillery,Civilian Artillery,Artillerie civile,Hilfsartillerie,민병 포대,Artyleria Wsparcia,Artilharia Civil,Орудие поддержки,Artillería civil
 Wall,Boulder,Boulder,Rocher,Felsen,바위,Skała,Pedregulho,Валун,Piedra
 RockThrown,Boulder,Boulder,Rocher,Felsen,바위,Skała,Pedregulho,Валун,Piedra
@@ -108,12 +108,12 @@ Train_Damaged,Damaged Train,Damaged Train,Train endommagé,Beschädigter Zug,손
 ArchiveArtillery,Artillery Support,Artillery Support,Soutien d'artillerie,Artillerieunterstützung,지원 포대,Wyrzutnia Rakiet,Artilharia de Suporte,Артподдержка,Apoyo artillero
 Dam_Pawn,Old Earth Dam,Old Earth Dam,Barrage terrestre,Alte-Welt-Damm,구 지구 댐,Tama Dawnej Ziemi,Barragem da Terra Antiga,Старая дамба,Presa de la Vieja Tierra
 SatelliteRocket,Satellite Rocket,Satellite Rocket,Fusée satellite,Satellitenrakete,위성 로켓,Rakieta Satelitarna,Satélite Foguete,Ракета-носитель,Cohete de satélite
-Archive_Tank,Archive Tank,Archive Tank,Tank Archive,Archive-Panzer,아카이브 탱크,Czołg Archive,Tanque do Arquivo,Танк «Архивов»,Tanque de Archivo
-Acid_Tank,A.C.I.D. Tank,A.C.I.D. Tank,Tank A.C.I.D.E.,A.C.I.D.U.M.-Panzer,A.C.I.D. 탱크,Czołg K.W.A.S-owy,Tanque A.C.I.D.,Хим. танк,Tanque de A.C.I.D.O.
+Archive_Tank,Archive Tank,Archive Tank,Tank Archive,Archive-Panzer,아카이브 전차,Czołg Archive,Tanque do Arquivo,Танк «Архивов»,Tanque de Archivo
+Acid_Tank,A.C.I.D. Tank,A.C.I.D. Tank,Tank A.C.I.D.E.,A.C.I.D.U.M.-Panzer,A.C.I.D. 전차,Czołg K.W.A.S-owy,Tanque A.C.I.D.,Хим. танк,Tanque de A.C.I.D.O.
 Disposal_Unit,A.C.I.D. Launcher,A.C.I.D. Launcher,Lanceur A.C.I.D.E.,A.C.I.D.U.M.-Werfer,A.C.I.D. 발사기,Wyrzutnia K.W.A.S-u,Lançador A.C.I.D.,Хим. установка,Lanzador de A.C.I.D.O.
 Filler_Pawn,Earth Mover,Earth Mover,Remodeleur,Erdwandler,지반 이동기,Ziemiogrzmot,Terramotor,Уравнитель,Excavadora
 Terraformer,Terraformer,Terraformer,Terraformeur,Terraformer,테라포머,Terraformer,Terraformador,Терраформер,Terraformador
-Freeze_Tank,Freeze Tank,Freeze Tank,Tank Gelant,Eispanzer,빙결 탱크,Czołg Zamrażający,Tanque Congelante,Фриз-танк,Tanque congelante
+Freeze_Tank,Freeze Tank,Freeze Tank,Tank Gelant,Eispanzer,빙결 전차,Czołg Zamrażający,Tanque Congelante,Фриз-танк,Tanque congelante
 BigBomb,Renfield Bomb,Renfield Bomb,Bombe Renfield,Renfield-Bombe,렌필드 폭탄,Bomba Renfielda,Bomba Renfield,Бомба Ренфилда,Bomba Renfield
 ProtoBomb,Prototype Bomb,Prototype Bomb,Prototype de bombe,Bombenprototyp,시제 폭탄,Prototypowa Bomba,Bomba Protótipo,Экспериментальная бомба,Prototipo de bomba
 BeetleBoss,Beetle Leader,Beetle Leader,Chef Coléoptère,Käfer-Anführer,비틀 리더,Żuk Przywódca,Líder Besouro,Жук-лидер,Líder escarabajo
